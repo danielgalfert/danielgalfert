@@ -1,4 +1,4 @@
-# Daniel Galfert
+# Daniel Gonzálvez Alfert
 
 Quantitatively minded software engineer with a background in **Computer Science & Mathematics**, currently finishing an MSc in **Quantum Information Science** at the University of Copenhagen. 
 
@@ -57,7 +57,7 @@ I work comfortably across **backend development**, **data analysis**, and **stat
 ## Find me
 
 - 🌐 Website: https://danielgalfert.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/danielgalfert  
+- 💼 LinkedIn: [https://www.linkedin.com/in/danielgalfert](https://www.linkedin.com/in/daniel-gonz%C3%A1lvez-alfert-a828931b1/)  
 - ✉️ Email: danielgalfert@gmail.com
 
 If something here overlaps with what you’re building or hiring for, feel free to reach out.
